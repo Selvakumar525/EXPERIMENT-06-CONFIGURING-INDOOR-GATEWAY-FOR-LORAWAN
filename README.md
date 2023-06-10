@@ -83,10 +83,11 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+![image](https://github.com/Selvakumar525/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/120643262/5e98fda3-8bbe-4914-b611-7b14f3c1be5e)
 
 
 
 
 ## Results: 
-
+Configure Dragino LPS8 Indoor LoRaWAN gateway for things network was configured.
 
